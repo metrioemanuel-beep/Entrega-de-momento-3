@@ -1,0 +1,1 @@
+se relaciona debido a que este es como una base acerca de elementos y bases la cuales sirven para que sepamos de que forma se inicia todo, con base de datos tiene una relacion directa ya que toda esta informacion va hacia una base de datos que es inicio de un aplicativo web, y con la otra materia se relaciona debido a que esta se basa en ciertos aspectos de la web y como mejorar 
